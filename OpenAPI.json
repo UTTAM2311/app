@@ -1,0 +1,38 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "prooooo",
+        "description": "dwqda",
+        "contact": {
+            "url": "/"
+        },
+        "version": "0.0.2"
+    },
+    "servers": [
+        {
+            "url": "/"
+        }
+    ],
+    "components": {
+        "extensions": {
+            "x-apitive-documentation": [
+                {
+                    "id": 5,
+                    "title": "prooooo",
+                    "url": "",
+                    "content": "dwqda",
+                    "visibility": true,
+                    "type": "General"
+                },
+                {
+                    "id": 6,
+                    "title": "refs",
+                    "url": "/static/default/icons/icon2.png",
+                    "content": "fwfa",
+                    "visibility": false,
+                    "type": "Scenarios"
+                }
+            ]
+        }
+    }
+}
